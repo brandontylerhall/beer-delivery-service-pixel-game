@@ -39,7 +39,10 @@
     {"id":{"name":"obj_player","path":"objects/obj_player/obj_player.yy",},},
     {"id":{"name":"obj_tv","path":"objects/obj_tv/obj_tv.yy",},},
     {"id":{"name":"obj_wall","path":"objects/obj_wall/obj_wall.yy",},},
-    {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"id":{"name":"rm_back_yard","path":"rooms/rm_back_yard/rm_back_yard.yy",},},
+    {"id":{"name":"rm_bedroom","path":"rooms/rm_bedroom/rm_bedroom.yy",},},
+    {"id":{"name":"rm_living_room","path":"rooms/rm_living_room/rm_living_room.yy",},},
+    {"id":{"name":"rm_study","path":"rooms/rm_study/rm_study.yy",},},
     {"id":{"name":"scr_macros","path":"scripts/scr_macros/scr_macros.yy",},},
     {"id":{"name":"spr_art","path":"sprites/spr_art/spr_art.yy",},},
     {"id":{"name":"spr_bedroom","path":"sprites/spr_bedroom/spr_bedroom.yy",},},
@@ -57,7 +60,10 @@
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
   "RoomOrderNodes":[
-    {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"roomId":{"name":"rm_living_room","path":"rooms/rm_living_room/rm_living_room.yy",},},
+    {"roomId":{"name":"rm_bedroom","path":"rooms/rm_bedroom/rm_bedroom.yy",},},
+    {"roomId":{"name":"rm_study","path":"rooms/rm_study/rm_study.yy",},},
+    {"roomId":{"name":"rm_back_yard","path":"rooms/rm_back_yard/rm_back_yard.yy",},},
   ],
   "templateType":"game",
   "TextureGroups":[

@@ -1,7 +1,7 @@
 {
   "$GMSprite":"",
   "%Name":"spr_fridge",
-  "bboxMode":2,
+  "bboxMode":0,
   "bbox_bottom":47,
   "bbox_left":0,
   "bbox_right":34,
