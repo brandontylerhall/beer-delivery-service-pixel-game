@@ -4,7 +4,7 @@
   "bboxMode":0,
   "bbox_bottom":159,
   "bbox_left":0,
-  "bbox_right":111,
+  "bbox_right":95,
   "bbox_top":0,
   "collisionKind":1,
   "collisionTolerance":0,
@@ -16,7 +16,7 @@
   ],
   "gridX":0,
   "gridY":0,
-  "height":300,
+  "height":200,
   "HTile":false,
   "layers":[
     {"$GMImageLayer":"","%Name":"2193fb91-9008-4cfe-9006-03b9c8653a8c","blendMode":0,"displayName":"default","isLocked":false,"name":"2193fb91-9008-4cfe-9006-03b9c8653a8c","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
